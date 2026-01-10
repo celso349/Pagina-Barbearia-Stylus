@@ -1,0 +1,1 @@
+windons.document.alert('ola, bem vindo')
